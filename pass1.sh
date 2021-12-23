@@ -1,5 +1,5 @@
 #!/bin/bash
-#line added
+#line ad
 name=$1
 company=$2
 echo "my name is $name"
